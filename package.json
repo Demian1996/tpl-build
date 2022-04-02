@@ -1,0 +1,13 @@
+{
+  "name": "tpl-build-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "react项目构建工具",
+  "dependencies": {
+    "yalc": "^1.0.0-pre.53"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Demian",
+  "license": "ISC"
+}
