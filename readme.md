@@ -5,11 +5,14 @@
 ### 目录
 
 demo 目录如下：
+
+```txt
 ├── package.json
 ├── src
 │ ├── index.less - 示例样式文件
 │ └── index.tsx - 示例代码
 └── tsconfig.json
+```
 
 ### 运行
 
