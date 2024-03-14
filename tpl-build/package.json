@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "rollup --config rollup.config.js --watch",
     "watch": "nodemon --watch lib/ --watch bin/ -C -e less,js,jsx,ts,tsx,css --exec \"yalc push\"",
-    "build": "rollup --config rollup.config.js"
+    "build": "rollup --config rollup.config.js && yalc publish"
   },
   "keywords": [],
   "files": [
